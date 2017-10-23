@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "538667766710",
+    "firebase_url": "https://tl-offers.firebaseio.com",
+    "project_id": "tl-offers",
+    "storage_bucket": "tl-offers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538667766710:android:a3b068ffd41036ca",
+        "android_client_info": {
+          "package_name": "com.example.voutsas.tl_offers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538667766710-rkv98236u8g5qq2v3ahdt4h87q9om6n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-SR_09J1unfw8TAf8L_pHtSVkUONU9xE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
