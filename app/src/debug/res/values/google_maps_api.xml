@@ -7,7 +7,7 @@
     https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=4E:A9:F6:0C:BE:3C:99:27:0A:50:B6:2C:75:BB:9A:9E:47:DA:31:D0%3Bcom.example.voutsas.tl_offers
 
     You can also add your credentials to an existing key, using these values:
-
+     api key
     Package name:
     4E:A9:F6:0C:BE:3C:99:27:0A:50:B6:2C:75:BB:9A:9E:47:DA:31:D0
 
@@ -21,6 +21,6 @@
     string in this file.
     -->
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
-        YOUR_KEY_HERE
+        AIzaSyC2JqznXzRKBNFoGbxbXvPul_epC7vQMTw
     </string>
 </resources>
